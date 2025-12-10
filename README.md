@@ -95,3 +95,7 @@ Application accessible sur: http://localhost:8080
 
 ## Auteur
 ENSA Khouribga - TP5 Tests Fonctionnels 2024
+<img width="2879" height="1692" alt="image" src="https://github.com/user-attachments/assets/e85b0b73-375b-4ed3-a892-c586cb8f119e" />
+<img width="2373" height="627" alt="image" src="https://github.com/user-attachments/assets/ed9d5244-79e4-4070-bed1-04a82ac2838c" />
+
+
