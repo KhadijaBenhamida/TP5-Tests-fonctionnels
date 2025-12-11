@@ -1,0 +1,9 @@
+{
+    "name": "ensa/tests-codeception",
+    "description": "Tests Codeception pour application Java Spring Boot",
+    "require": {
+        "php": ">=7.4",
+        "codeception/codeception": "^5.0",
+        "codeception/module-webdriver": "^3.0"
+    }
+}

@@ -1,0 +1,11 @@
+actor: AcceptanceTester
+modules:
+    enabled:
+        - WebDriver:
+            url: 'http://localhost:8080'
+            browser: chrome
+            window_size: 1920x1080
+            capabilities:
+                chromeOptions:
+                    args: ["--disable-gpu", "--no-sandbox", "--disable-dev-shm-usage"]
+        - \Tests\Support\AcceptanceHelper
